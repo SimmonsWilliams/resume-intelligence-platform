@@ -75,3 +75,15 @@ Capture screenshots with only synthetic Demo Mode or synthetic test documents. D
 ## Project status
 
 Implemented and automated-test verified. Deployment is complete only after a public Streamlit URL passes a live smoke test.
+
+## Streamlit Community Cloud deployment
+
+1. Sign in to Streamlit Community Cloud with GitHub.
+2. Create an app from `SimmonsWilliams/resume-intelligence-platform`.
+3. Select branch `main` and main file `app.py`.
+4. Deploy the app. No secrets or environment variables are required.
+5. Open **Manage app > Settings > Sharing**.
+6. Set **Who can view this app** to **This app is public and searchable**.
+7. Verify the public URL without signing in. If the URL redirects to `/-/auth/app`, the app sharing setting is still private or GitHub authorization is incomplete.
+
+The repository must remain public-safe and must not contain private resumes or report directories.
