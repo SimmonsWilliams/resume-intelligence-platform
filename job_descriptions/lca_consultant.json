@@ -1,0 +1,34 @@
+{
+    "job_id": "JD-001",
+    "job_title": "LCA Consultant",
+    "experience": {
+        "minimum_years": 2,
+        "maximum_years": 3,
+        "minimum_projects": 3
+    },
+    "education": [
+        "Environmental Engineering",
+        "Environmental Science",
+        "Related Environmental Domain"
+    ],
+    "required_skills": [
+        "Life Cycle Assessment",
+        "GaBi",
+        "SimaPro",
+        "ISO 14040",
+        "ISO 14044"
+    ],
+    "preferred_skills": [
+        "OpenLCA",
+        "Carbon Accounting",
+        "Environmental Impact Assessment",
+        "GHG Management"
+    ],
+    "software_tools": [
+        "GaBi",
+        "SimaPro"
+    ],
+    "job_location": "Chennai",
+    "work_mode": "Onsite",
+    "relocation_required": true
+}

@@ -1,0 +1,27 @@
+{
+    "job_id": "JD-002",
+    "job_title": "UI/UX Designer",
+    "experience": {
+        "minimum_years": 0,
+        "maximum_years": 1
+    },
+    "required_skills": [
+        "Figma",
+        "Prototyping",
+        "UI Design",
+        "UX Design",
+        "Responsive Design"
+    ],
+    "preferred_skills": [
+        "User Research",
+        "User Psychology",
+        "Wireframing",
+        "Creativity",
+        "Aesthetic Sense"
+    ],
+    "software_tools": [
+        "Figma"
+    ],
+    "education": [],
+    "experience_level": "Entry Level"
+}

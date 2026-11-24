@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Candidate personal data and generated reports
+Resume docs/
+extracted_data/
+analyzed_data/
+analyzed_data_v2/
+reports/
+*.docx
+*.pdf
+
+# Local backups and temporary implementation artifacts
+*.backup
+*_backup.py
+*.stage*-backup
+*.tmp
+*.temp
+*.zip
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+secrets.toml
+*.pem
+*.key
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local project files
+requirements.txt.original
+.agents/
+app_backup.py
+
+# Streamlit local secrets
+.streamlit/secrets.toml
